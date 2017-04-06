@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Translate(feb_27)</string>
+    <string name="textForTranslate">Type here...</string>
+    <string name="translateButton">Translate</string>
+</resources>
